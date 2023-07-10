@@ -111,7 +111,7 @@ const questions = [
   
   let currentQuestion = 0;
   let score = 0;
-  const quizTimeInSeconds = 60; // Set the quiz time to 60 seconds
+  const quizTimeInSeconds = 300; // Set the quiz time to 60 seconds
   let timeRemaining = quizTimeInSeconds;
   let timerInterval;
   
