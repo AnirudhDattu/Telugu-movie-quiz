@@ -45,9 +45,9 @@ const questions = [
      answers: ["Tella Abhiram", "Vunnadhi Okate Zindagi"]
     },
     {
-    image: "https://filmciti.com/wp-content/uploads/2022/04/18-Pages-Movie-News.jpg",
-     options: ["siddhu", "18 Pages", "Nikhil Siddhartha", "Anupama Parameswaran"],
-     answers: ["siddhu", "18 Pages"]
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4zyV0rrFy3xxb4GryOykYb9YDncxWK2Kyz_Oa9b4KN0sS7C6OvoA3mRApdxi-80DlwMM&usqp=CAU",
+     options: ["Bommarillu", "Genelia D'Souza", "Siddu", "Siddharth"],
+     answers: ["Bommarillu", "Siddu"]
     },
     {
      image: "https://m.behindwoods.com/tamil-movies/fidaa/images/fidaa-box-office-jul-23.jpg",
