@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Car Logo Quiz</title>
+  <link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+  <div class="quiz-container">
+    <h1>Car Logo Quiz</h1>
+    <div id="user-input">
+      <label for="name">Enter your name:</label>
+      <input type="text" id="name" />
+      <button onclick="startQuiz()" style="margin-top: 15px;">Start Quiz</button>
+    </div>
+    <div id="quiz">
+      <!-- Question and options will be displayed here -->
+    </div>
+    <div id="result" style="display: none;">
+      <h2>Quiz Result:</h2>
+      <p id="score"></p>
+      <p id="analysis"></p>
+    </div>
+  </div>
+  <div id="timer" style="border-left-width: 50px; margin-left: 50px;">Time Remaining: 60s</div>
+
+  <script src="index.js"></script>
+</body>
+</html>
