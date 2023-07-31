@@ -273,8 +273,3 @@ const questions = [
     localStorage.setItem("quizResults", JSON.stringify(results));
   }
 
-  function endQuiz() {
-    clearInterval(timerInterval);
-    saveResult(userName, score, percentage); // Save the result
-    window.location.href = "results.html"; // Redirect to results page
-}
